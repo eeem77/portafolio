@@ -1,0 +1,8 @@
+.read-more {
+    color: #0B5ED7;
+}
+
+.read-more:hover {
+    cursor: pointer;
+    color: green;
+}

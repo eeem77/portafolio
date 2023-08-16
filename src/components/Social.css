@@ -1,0 +1,15 @@
+ul {
+    margin: 0;
+}
+
+.social-group li {
+    font-size: x-large;
+}
+
+.social-group {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin: 0;
+  }
